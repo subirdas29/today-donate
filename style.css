@@ -116,3 +116,14 @@ h5 {
 #third-item {
     background-color: rgb(201, 164, 243);
 }
+
+.all-footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+.all-footer h2 {
+    color: orange;
+}
