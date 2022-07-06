@@ -94,6 +94,7 @@ h5 {
     display: flex;
     margin-left: 6%;
     margin-right: 6%;
+    text-align: left;
 }
 
 .planning-item {
